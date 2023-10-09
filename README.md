@@ -1,0 +1,2 @@
+# PracitceGitHub
+sample practices program
