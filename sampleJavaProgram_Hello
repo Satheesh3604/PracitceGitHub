@@ -4,5 +4,6 @@ public class{
 public void hello(){
 String helloWrold = "sample";
 System.out.Println("helloWrold");
+System.out.Println("welcome to 2025");
 }
 }
